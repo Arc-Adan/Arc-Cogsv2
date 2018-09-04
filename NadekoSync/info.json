@@ -1,0 +1,9 @@
+{
+    "AUTHOR" : "Arc Adan (Arc#1006)",
+    "INSTALL_MSG" : "WARNING: OVERWRITES DEFAULT ECONOMY.PY!!! Dm me for help or go to https://discord.gg/c32KMZU : You can also go there to just take to me and the community!",
+    "NAME" : "NadekoSync",
+    "SHORT" : "Sync's Nadeko and Red's economy systems ",
+    "DESCRIPTION" : "WARNING: OVERWRITES DEFAULT ECONOMY.PY!!! Red and Nadeko will share an economy database. ",
+    "TAGS" : ["Economy", "utils", "fun", "nadeko", "slots"]
+    "HIDDEN" : true
+}
